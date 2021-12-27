@@ -65,7 +65,7 @@
 ![image](https://user-images.githubusercontent.com/23431746/147458863-06ecdcd6-4035-4ceb-81b2-938166a2cc51.png)
 (아파트 상세정보 [데이터 시각화])
 
-![image](https://user-images.githubusercontent.com/23431746/147458918-6af257b4-0257-4300-8a33-a433bfe401cd.png)
+![image](https://user-images.githubusercontent.com/23431746/147459004-2d15106b-0945-463d-9511-77c2e5ed8e27.png)
 (아파트 실거래가 가격 범위별 검색)
 
 ![image](https://user-images.githubusercontent.com/23431746/147458956-32836d25-5fb7-45a2-b1ae-3a747baf8c9d.png)
