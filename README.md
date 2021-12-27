@@ -32,13 +32,25 @@
 ## 주요 기능
 
 ### 회원관리
+![image](https://user-images.githubusercontent.com/23431746/147459371-113c86b2-7a58-4081-afb3-65f5183a706e.png)
+(회원 가입 창)
 
+
+![image](https://user-images.githubusercontent.com/23431746/147459389-d53a7a09-110a-4a7d-b731-98fbe0fbfb18.png)
+![image](https://user-images.githubusercontent.com/23431746/147459396-67ce8efe-a125-40c9-8d5b-d99222fe5be6.png)
+(아이디 유효성 검사)
+
+#### 회원 관리 기능
 - 회원 가입
 - 회원 정보 수정
 - 회원 탈퇴
 
 ### 로그인 관리
 
+![image](https://user-images.githubusercontent.com/23431746/147459455-687c38b7-2a5b-466c-b490-aad5d12758ea.png)
+(소셜 로그인 구현)
+
+#### 로그인 관리 기능
 - 로그인
 - 비밀번호 찾기
 - 로그아웃
