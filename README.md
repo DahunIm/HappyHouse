@@ -46,6 +46,7 @@
 - 회원 정보 수정
 - 회원 탈퇴
 
+
 ### 로그인 관리
 
 ![image](https://user-images.githubusercontent.com/23431746/147459455-687c38b7-2a5b-466c-b490-aad5d12758ea.png)
@@ -55,6 +56,7 @@
 - 로그인
 - 비밀번호 찾기
 - 로그아웃
+
 
 ### 메인 페이지
 
@@ -69,6 +71,7 @@
 - 뉴스 크롤링
 - 코로나 확진자 현황
 - 우측 상단 드롭다운
+
 
 ### 지도
 ![image](https://user-images.githubusercontent.com/23431746/147458801-cd5e2284-e625-4d1f-8ea2-b836ef0a3d35.png)
@@ -94,6 +97,7 @@
 - 주변지역 환경정보
 - 아파트 상세정보
 
+
 ### 공지사항
 ![image](https://user-images.githubusercontent.com/23431746/147459142-d6143d2c-8ca4-406d-9c0f-c9ec1b1a1435.png)
 (공지사항 페이지)
@@ -111,6 +115,7 @@
 - 글 보기
 - 글 수정
 - 글 삭제
+
 
 ### Q&A
 ![image](https://user-images.githubusercontent.com/23431746/147459284-164573c3-925a-4ffa-ad8a-5966984ab0c5.png)
