@@ -38,6 +38,7 @@
 
 ![image](https://user-images.githubusercontent.com/23431746/147459389-d53a7a09-110a-4a7d-b731-98fbe0fbfb18.png)
 ![image](https://user-images.githubusercontent.com/23431746/147459396-67ce8efe-a125-40c9-8d5b-d99222fe5be6.png)
+
 (아이디 유효성 검사)
 
 #### 회원 관리 기능
