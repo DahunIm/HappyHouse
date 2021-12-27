@@ -50,6 +50,9 @@
 - 사이드바
 - 전국 기온
 - 시/도 및 구/군 선택
+- 
+![image](https://user-images.githubusercontent.com/23431746/147458610-07e3ca7c-ffd7-4866-b24f-77a9fe32e74d.png)
+
 - 뉴스
 - 코로나 확진자 현황
 - 우측 상단 드롭다운
