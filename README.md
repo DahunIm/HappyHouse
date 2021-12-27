@@ -27,6 +27,40 @@
 #### \- NGINX 
 
 
+## ERD
+
+![image](https://user-images.githubusercontent.com/23431746/147460223-7cf542f9-71d3-4a84-93a4-2661750a495f.png)
+
+
+## USECASE Diagram
+
+### 1. 거래내역, 아파트 DTO
+![image](https://user-images.githubusercontent.com/23431746/147460330-3302be07-423c-4d8d-be60-c3abc267716c.png)
+![image](https://user-images.githubusercontent.com/23431746/147460338-e5dff666-02a6-450f-8d7a-bd2a7181304d.png)
+
+
+### 2. User, 공지사항, Q&A, 상권, 환경, 주택 및 주변 편의, 복지 정보 DTO
+![image](https://user-images.githubusercontent.com/23431746/147460382-ff12e15f-380c-42fa-b06b-df188c94e69c.png)
+
+
+### 3. 주택 거래, 즐겨찾기 동네, 시/도 + 구/군 코드 DTO
+![image](https://user-images.githubusercontent.com/23431746/147460423-ce92afaf-4a9a-4421-92e5-a8fd6c7d41f4.png)
+
+
+### 4. USER MVC
+![image](https://user-images.githubusercontent.com/23431746/147460468-1fbab047-d943-43d2-9494-4ad30645c551.png)
+
+
+### 5. HOUSE MVC
+![image](https://user-images.githubusercontent.com/23431746/147460480-73aa8078-e365-4b39-ab23-62b40fb3340e.png)
+
+
+### 6. Q&A / 답글 MVC
+![image](https://user-images.githubusercontent.com/23431746/147460505-a77631d0-6fe4-4390-a96e-07ec432d9073.png)
+
+
+### 7. News/Store/Notice class
+![image](https://user-images.githubusercontent.com/23431746/147460540-5e746fa3-ddd1-4798-8520-17d6cd9f475b.png)
 
 
 ## 주요 기능
