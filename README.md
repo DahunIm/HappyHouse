@@ -50,7 +50,9 @@
 ### 로그인 관리
 
 ![image](https://user-images.githubusercontent.com/23431746/147459455-687c38b7-2a5b-466c-b490-aad5d12758ea.png)
+![image](https://user-images.githubusercontent.com/23431746/147459934-752cab0d-52e7-4d90-8176-01afef9dcce5.png)
 (소셜 로그인 구현)
+
 
 #### 로그인 관리 기능
 - 로그인
