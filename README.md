@@ -86,6 +86,7 @@
 (공지사항 페이지)
 
 ![image](https://user-images.githubusercontent.com/23431746/147459155-c908bcc0-3b18-4180-b885-49ef8bf57288.png)
+![image](https://user-images.githubusercontent.com/23431746/147459270-d967bb52-5f71-4963-80f8-6ab0f06d12e1.png)
 (공지사항 내용 < + 파일 업로드>)
 
 ![image](https://user-images.githubusercontent.com/23431746/147459190-8547a10e-6d80-4641-b23d-f5e1a46bd8a0.png)
@@ -99,7 +100,13 @@
 - 글 삭제
 
 ### Q&A
+![image](https://user-images.githubusercontent.com/23431746/147459284-164573c3-925a-4ffa-ad8a-5966984ab0c5.png)
+(Q&A 목록)
 
+![image](https://user-images.githubusercontent.com/23431746/147459307-f0aa7386-6070-4b05-8782-095e892be984.png)
+(Q&A 등록/수정/삭제 및 답글)
+
+#### Q&A 
 - 목록
 - 보기
 - 질문 등록
