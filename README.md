@@ -27,6 +27,17 @@
 #### \- NGINX 
 
 
+### 맡은 파트(임다훈)
+- 객체 모델링 
+- REST API 구성 
+- Sql 쿼리 작성
+- DB 설계 
+- 크롤링
+- 일일 stand-up 미팅 진행
+- 아파트 상세정보 데이터 시각화
+- Lean SW 개발 방법론 적용 ( 낭비 제거 및 고객 가치 향상 목표)
+
+
 ## ERD
 
 ![image](https://user-images.githubusercontent.com/23431746/147460223-7cf542f9-71d3-4a84-93a4-2661750a495f.png)
