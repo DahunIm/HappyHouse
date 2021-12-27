@@ -47,12 +47,13 @@
 
 ![image](https://user-images.githubusercontent.com/23431746/147458732-cd6ff655-1998-4b7c-931b-bef014af08c7.png)
 
+#### 메인 페이지 기능
 - 이미지 로고
 - 상단 네임 태그
 - 사이드바
 - 전국 기온
 - 시/도 및 구/군 선택
-- 뉴스
+- 뉴스 크롤링
 - 코로나 확진자 현황
 - 우측 상단 드롭다운
 
@@ -69,8 +70,9 @@
 (아파트 실거래가 가격 범위별 검색)
 
 ![image](https://user-images.githubusercontent.com/23431746/147458956-32836d25-5fb7-45a2-b1ae-3a747baf8c9d.png)
-(계정당 즐겨찾기 지역
+(계정당 즐겨찾기 지역)
 
+#### 지도 기능
 - 지역 선택
 - 아파트 실거래가
 - 아파트 최저거래가
@@ -80,7 +82,16 @@
 - 아파트 상세정보
 
 ### 공지사항
+![image](https://user-images.githubusercontent.com/23431746/147459142-d6143d2c-8ca4-406d-9c0f-c9ec1b1a1435.png)
+(공지사항 페이지)
 
+![image](https://user-images.githubusercontent.com/23431746/147459155-c908bcc0-3b18-4180-b885-49ef8bf57288.png)
+(공지사항 내용 < + 파일 업로드>)
+
+![image](https://user-images.githubusercontent.com/23431746/147459190-8547a10e-6d80-4641-b23d-f5e1a46bd8a0.png)
+(공지사항 수정, 삭제)
+
+#### 공지사항 기능
 - 목록
 - 글 작성
 - 글 보기
