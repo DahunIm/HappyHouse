@@ -63,6 +63,12 @@
 ![image](https://user-images.githubusercontent.com/23431746/147460540-5e746fa3-ddd1-4798-8520-17d6cd9f475b.png)
 
 
+## USECASE Diagram
+![image](https://user-images.githubusercontent.com/23431746/147460651-9931f102-7406-4c58-a170-86fb2b469229.png)
+
+### (위 actor = USER, 아래 actor = ADMIN)
+
+
 ## 주요 기능
 
 ### 회원관리
